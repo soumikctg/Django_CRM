@@ -1,0 +1,4 @@
+git config --global user.name "Soumik Dutta"
+git config --global user.email "soumikctg616@gmail.com"
+git config --global push.default matching
+git config --global alias.co checkout
